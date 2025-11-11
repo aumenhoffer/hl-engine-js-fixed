@@ -1,5 +1,8 @@
 # Half-Life Engine JS
 
+> [!NOTE]
+> This fork of steren/hl-engine-js fixes the error message you get by default when you don't pass arguments to the engine. It also makes the canvas size larger for better experience.
+
 A JavaScript module to play Half Life maps in the browser.
 
 <img src="https://user-images.githubusercontent.com/360895/221452297-79cf4266-fbd7-48aa-b5eb-2eaa744253d2.svg" alt="Half-Life Engien JS logo" width="600">
