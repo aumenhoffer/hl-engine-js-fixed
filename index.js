@@ -9,6 +9,7 @@ document.getElementById('start').onclick = () => {
       filesystem: "RAM",
       fullscreen: true,
       zip: reader.result,
+      args: []
     };
     start(params);
   }
